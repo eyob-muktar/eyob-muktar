@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Eyob Muktar</h1>
 <h3 align="center">A full-stack developer from Ethiopia</h3>
 
-- 🌱 I’m currently learning **Go**
+- 🌱 I’m currently learning **Advanced NestJs**
 
 - 💬 Ask me about **React, NodeJs, NestJs**
 
