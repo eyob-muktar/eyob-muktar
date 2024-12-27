@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Eyob Muktar</h1>
 <h3 align="center">A full-stack developer from Ethiopia</h3>
 
-- 🔭 I’m currently working on [**Sleepr**](https://github.com/eyob-muktar/sleepr)
+- 🔭 I’m currently working on [**Leaning-management**](https://github.com/eyob-muktar/Learning-management)
 
-- 🌱 I’m currently learning **Kubernetes**
+- 🌱 I’m currently learning **NextJs**
 
 - 👨‍💻 All of my projects are available at [**https://eyob-muktar.vercel.app/**](https://eyob-muktar.vercel.app/)
 
