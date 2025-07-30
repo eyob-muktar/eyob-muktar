@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **eyobmuktar4@gmail.com**
 
-- 📄 Wanna Know about my experiences? [**Check my resume**](https://drive.google.com/file/d/1fqfQ5XShAHs7ZcSH17u66YnUtLFYduPO/view?usp=sharing)
+- 📄 Wanna Know about my experiences? [**Check my resume**](https://drive.google.com/file/d/1FcZQVN8XbMTzp8t6vvx8jQblQTZYzRVA/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
