@@ -3,8 +3,6 @@
 
 - 🔭 I’m currently working on [**Leaning-management**](https://github.com/eyob-muktar/Learning-management)
 
-- 👨‍💻 All of my projects are available at [**https://eyob-muktar.vercel.app/**](https://eyob-muktar.vercel.app/)
-
 - 💬 Ask me about **NestJs, React**
 
 - 📫 How to reach me **eyobmuktar4@gmail.com**
